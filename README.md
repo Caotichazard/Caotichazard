@@ -1,8 +1,8 @@
-### Hello, I'm Guilherme 👋
+## Hello, I'm Guilherme 👋
 
-# About me
+### About me
 
-# Experience
+### Experience
 
 - Trainee Full stack-dev @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - 🎓  Computer Science @ [Universidade Federal de São Carlos](https://www2.ufscar.br/).
