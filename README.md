@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm Guilherme 👋
+
+# About me
+
+# Experience
+
+- Trainee Full stack-dev @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
+- 🎓  Computer Science @ [Universidade Federal de São Carlos](https://www2.ufscar.br/).
+
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caotichazard&hide=html,tex,Jupyter Notebook, css&layout=compact&langs_count=8&theme=buefy"/>
 
 <!--
 **Caotichazard/Caotichazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
