@@ -4,7 +4,7 @@
 
 ### Experience
 
-- Trainee Full stack-dev @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
+- Junior Full stack-dev @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - 🎓  Computer Science @ [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
 <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caotichazard&hide=html,java,jupyter%20notebook&count_private=true&layout=compact"/>
